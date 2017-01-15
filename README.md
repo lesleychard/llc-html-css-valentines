@@ -1,6 +1,6 @@
 #Ladies Learning Code
 
-##HTML & CSS Valentine's Day Workshop
+##Valentine’s Day: Creating Valentine’s Day Card with HTML & CSS 
 
 A 3hr introductory HTML & CSS3 animations workshop.
 
