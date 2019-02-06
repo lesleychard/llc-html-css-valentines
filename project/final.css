@@ -30,7 +30,7 @@ main {
 h1 {
   font-size: 50px;
   margin: 0;
-  color: #B109AA;
+  color: #8b31e0;
   font-family: 'Sacramento', cursive;
   line-height: 1;
 }
@@ -66,11 +66,11 @@ cite {
   right: 50px;
   font-size: 200px;
   opacity: .1;
-  color: #B109AA;
+  color: #8b31e0;
 }
 
 .heart-pulse {
-  color: #B109AA;
+  color: #8b31e0;
   display: inline-block;
   animation: pulse 2s infinite;
 }
